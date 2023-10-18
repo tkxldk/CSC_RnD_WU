@@ -1,7 +1,2 @@
 # WriteUps
-
-WU 1 - solo
-<br>
-WU 2 - duo (farrel)
-<br>
-WU 3 - duo (calvin)
+This writeups are made for the Research and Development Division in Cyber Security Community BINUS
